@@ -1,5 +1,5 @@
 # Project-specific variables
-PROJECT_ID = d-ulti-lifetech-deib-gcp-6976
+PROJECT_ID = "example"
 IMAGE_NAME = gcr.io/$(PROJECT_ID)/datastreamgcp
 REGION = us-central1
 
